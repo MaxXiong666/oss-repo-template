@@ -1,4 +1,4 @@
-# Open Source Software - Summer 2019
+# Open Source Software - Spring 2021
 ## Chuanfeng Xiong
 
 ## Bio
@@ -9,5 +9,4 @@ Discord handle Chuanfeng Xiong#7278
 <img src="https://github.com/MaxXiong666/oss-repo-template/blob/master/pictures/CSCI%204470%20Lab1.jpg" width="100" height="200" alt="微信小程序"/><br/>
 
 
-## Lab Reports
-[Lab 1](labs/lab-01/report.md)
+
